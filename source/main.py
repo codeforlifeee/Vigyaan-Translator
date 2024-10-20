@@ -146,7 +146,7 @@ to_language = get_language_code(to_language_name)
 st.markdown("""
 <style>
     .instructions {
-        background-color: #f0f2f6;
+        background-color: black;
         padding: 15px;
         border-radius: 10px;
         margin-bottom: 20px;
